@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">WebSocketClient</string>
+
+    <string name="send">Send</string>
+
+    <string name="dialog_title_setup">Setup</string>
+    <string name="dialog_title_settings">Settings</string>
+    <string name="tv_address_text">Client Hostname or IP</string>
+    <string name="tv_port_text">Client Port</string>
+    <string name="tv_ping_text">Ping Interval (ms) ⏳</string>
+
+    <string name="dialog_button_connect">Connect 🔗</string>
+    <string name="dialog_button_disconnect">Disconnect ❌</string>
+    <string name="dialog_button_demo_mode">Run Demo Mode</string>
+    <string name="dialog_button_resume">Resume App 👍</string>
+
+    <string name="dialog_false_entry">Please check Your Entry and Try Again 📝</string>
+
+    <string name="message_hello">This is WebSocketClient Version %version 👋</string>
+    <string name="message_connected">Connected 🔗</string>
+    <string name="message_disconnected">Disconnected: %reason 😑</string>
+    <string name="reason_self_disconnect">you terminated the connection with message \"This connection was terminated by the user\" and code 1000 (default)</string>
+    <string name="message_connecting">Connecting to %clientAddr 🔍</string>
+
+    <string name="url">https://www.youtube.com/watch?v=iik25wqIuFo</string>
+
+</resources>

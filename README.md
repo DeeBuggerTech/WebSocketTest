@@ -37,6 +37,10 @@
    <li>You can access the connection settings by clicking the gear symbol in the upper right corner. </li>
    <li>The application was modified and tested to work with secure WebSockets. Just add "wss://" to a wss server hostname in order to check it out.</li>
 </ul></p>
+<p><b>Version 1.6.4: </b>
+  <ul>
+   <li>Bugfix: Messages are no longer lost when the device is rotated.</li>
+</ul></p>
 
 
 <h1>License</h1>

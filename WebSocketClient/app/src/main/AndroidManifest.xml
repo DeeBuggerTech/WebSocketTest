@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:configChanges="keyboardHidden|orientation|screenSize" >  <!--This will prevent data from being lost when the device is rotated-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

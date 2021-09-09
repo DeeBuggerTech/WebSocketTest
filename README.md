@@ -19,7 +19,7 @@
 <img src="images/screenshot_serial_monitor.png"></img>
 
 
-<p>Here we got the local IP and the Hostname (which can be changed here). You can enter the URL in your browser to check if it's working. If you get a response like "Looks like everything's running smoothly.", you can continue by setting up the app.</p>
+<p>Here we got the local IP and the Hostname (which can be changed <a href="https://github.com/DeeBuggerTech/002_WebSocket_Test/blob/724cdebb90a566ab19e58efe5f2acf0392d58035/WebSocketServer/WebSocketServer.ino#L9">here</a>). You can enter the URL in your browser to check if it's working. If you get a response like "Looks like everything's running smoothly.", you can continue by setting up the app.</p>
 
 
 <img src="images/screenshots_app.png"></img>

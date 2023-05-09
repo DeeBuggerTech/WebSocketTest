@@ -1,4 +1,4 @@
-# 002_WebSocket_Test <img src="images/icon.png" width="40px"></img>
+# WebSocketTest <img src="images/icon.png" width="40px"></img>
 
 <h1>The project...</h1>
 
